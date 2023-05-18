@@ -1,0 +1,102 @@
+BookId,Title,Author,Genre,Publisher
+1001,Fundamentals of Wavelets,"Goswami, Jaideva",signal_processing,Wiley
+1002,Data Smart,"Foreman, John",data_science,Wiley
+1003,God Created the Integers,"Hawking, Stephen",mathematics,Penguin
+1004,Superfreakonomics,"Dubner, Stephen",economics,HarperCollins
+1005,Orientalism,"Said, Edward",history,Penguin
+1006,The Nature of Statistical Learning Theory,"Vapnik, Vladimir",data_science,Springer
+1007,Integration of the Indian States,"Menon, V P",history,Orient Blackswan
+1008,How to Think Like Sherlock Holmes,"Konnikova, Maria",psychology,Penguin
+1009,Data Scientists at Work,Sebastian Gutierrez,data_science,Apress
+1010,Slaughterhouse Five,"Vonnegut, Kurt",fiction,Random House
+1011,Birth of a Theorem,"Villani, Cedric",mathematics,Bodley Head
+1012,The Age of Wrath,"Eraly, Abraham",history,Penguin
+1013,The Trial,"Kafka, Frank",fiction,Random House
+1014,Statistical Decision Theory,"Pratt, John",data_science,MIT Press
+1015,Data Mining Handbook,"Nisbet, Robert",data_science,Apress
+1016,The New Machiavelli,"Wells, H. G.",fiction,Penguin
+1017,Making Software,"Oram, Andy",computer_science,O'Reilly
+1018,Machine Learning for Hackers,"Conway, Drew",data_science,O'Reilly
+1019,The Signal and the Noise,"Silver, Nate",data_science,Penguin
+1020,Python for Data Analysis,"McKinney, Wes",data_science,O'Reilly
+1021,Introduction to Algorithms,"Cormen, Thomas",computer_science,MIT Press
+1022,The Beautiful and the Damned,"Deb, Siddhartha",nonfiction,Penguin
+1023,The Outsider,"Camus, Albert",fiction,Penguin
+1024,The Wealth of Nations,"Smith, Adam",economics,Random House
+1025,The Pillars of the Earth,"Follett, Ken",fiction,Random House
+1026,The Tao of Physics,"Capra, Fritjof",science,Penguin
+1027,A Farewell to Arms,"Hemingway, Ernest",fiction,Rupa
+1028,The Veteran,"Forsyth, Frederick",fiction,Transworld
+1029,False Impressions,"Archer, Jeffery",fiction,Pan
+1030,The Last Lecture,"Pausch, Randy",nonfiction,Hyperion
+1031,Return of the Primitive,"Rand, Ayn",philosophy,Penguin
+1032,Jurassic Park,"Crichton, Michael",fiction,Random House
+1033,A Russian Journal,"Steinbeck, John",nonfiction,Penguin
+1034,Tales of Mystery and Imagination,"Poe, Edgar Allen",fiction,HarperCollins
+1035,Freakonomics,"Dubner, Stephen",economics,Penguin
+1036,The Hidden Connections,"Capra, Fritjof",science,HarperCollins
+1037,The Story of Philosophy,"Durant, Will",philosophy,Pocket
+1038,Asami Asami,"Deshpande, P L",fiction,Mauj
+1039,Journal of a Novel,"Steinbeck, John",fiction,Penguin
+1040,Once There Was a War,"Steinbeck, John",nonfiction,Penguin
+1041,The Moon is Down,"Steinbeck, John",fiction,Penguin
+1042,The Brethren,"Grisham, John",fiction,Random House
+1043,In a Free State,"Naipaul, V. S.",fiction,Rupa
+1044,Catch 22,"Heller, Joseph",fiction,Random House
+1045,The Complete Mastermind,BBC,nonfiction,BBC
+1046,Dylan on Dylan,"Dylan, Bob",nonfiction,Random House
+1047,Textbook of Economic Theory,"Stonier, Alfred",economics,Pearson
+1048,Econometric Analysis,"Greene, W. H.",economics,Pearson
+1049,Learning OpenCV,"Bradsky, Gary",data_science,O'Reilly
+1050,"Computer Vision, A Modern Approach","Forsyth, David",data_science,Pearson
+1051,Principles of Communication Systems,"Taub, Schilling",computer_science,TMH
+1052,Let Us C,"Kanetkar, Yashwant",computer_science,Prentice Hall
+1053,The Amulet of Samarkand,"Stroud, Jonathan",fiction,Random House
+1054,Crime and Punishment,"Dostoevsky, Fyodor",fiction,Penguin
+1055,Angels and Demons,"Brown, Dan",fiction,Random House
+1056,The Argumentative Indian,"Sen, Amartya",nonfiction,Picador
+1057,Sea of Poppies,"Ghosh, Amitav",fiction,Penguin
+1058,The Idea of Justice,"Sen, Amartya",nonfiction,Penguin
+1059,A Raisin in the Sun,"Hansberry, Lorraine",fiction,Penguin
+1060,A Prisoner of Birth,"Archer, Jeffery",fiction,Pan
+1061,Scoop,"Nayar, Kuldip",history,HarperCollins
+1062,Ahe Manohar Tari,"Deshpande, Sunita",nonfiction,Mauj
+1063,The Last Mughal,"Dalrymple, William",history,Penguin
+1064,Gun Gayin Awadi,"Deshpande, P L",nonfiction,Mauj
+1065,Aghal Paghal,"Deshpande, P L",nonfiction,Mauj
+1066,Maqta-e-Ghalib,"Garg, Sanjay",fiction,Mauj
+1067,Beyond Degrees,,nonfiction,HarperCollins
+1068,Manasa,"Kale, V P",nonfiction,Mauj
+1069,India from Midnight to Milennium,"Tharoor, Shashi",history,Penguin
+1070,The Great Indian Novel,"Tharoor, Shashi",fiction,Penguin
+1071,O Jerusalem,"Lapierre, Dominique",history,vikas
+1072,The City of Joy,"Lapierre, Dominique",fiction,vikas
+1073,Freedom at Midnight,"Lapierre, Dominique",history,vikas
+1074,The Winter of Our Discontent,"Steinbeck, John",fiction,Penguin
+1075,On Education,"Russell, Bertrand",philosophy,Routledge
+1076,Free Will,"Harris, Sam",philosophy,FreePress
+1077,Bookless in Baghdad,"Tharoor, Shashi",nonfiction,Penguin
+1078,The Case of the Lame Canary,"Gardner, Earle Stanley",fiction,
+1079,The Theory of Everything,"Hawking, Stephen",science,Jaico
+1080,Electric Universe,"Bodanis, David",science,Penguin
+1081,The Hunchback of Notre Dame,"Hugo, Victor",fiction,Random House
+1082,Burning Bright,"Steinbeck, John",fiction,Penguin
+1083,The Age of Discontuinity,"Drucker, Peter",economics,Random House
+1084,Doctor in the Nude,"Gordon, Richard",fiction,Penguin
+1085,Down and Out in Paris and London,"Orwell, George",nonfiction,Penguin
+1086,Identity and Violence,"Sen, Amartya",philosophy,Penguin
+1087,Beyond the Three Seas,"Dalrymple, William",history,Random House
+1088,Talking Straight,"Iacoca, Lee",nonfiction,
+1089,The Phantom of Manhattan,"Forsyth, Frederick",fiction,
+1090,Ashenden of The British Agent,"Maugham, William S",fiction,Vintage
+1091,The Great War for Civilization,"Fisk, Robert",history,HarperCollins
+1092,We the Living,"Rand, Ayn",fiction,Penguin
+1093,The Artist and the Mathematician,"Aczel, Amir",science,HighStakes
+1094,History of Western Philosophy,"Russell, Bertrand",philosophy,Routledge
+1095,Selected Short Stories,,fiction,Jaico
+1096,Rationality and Freedom,"Sen, Amartya",economics,Springer
+1097,Clash of Civilizations and Remaking of the World Order,"Huntington, Samuel",history,Simon&Schuster
+1098,Uncommon Wisdom,"Capra, Fritjof",nonfiction,Fontana
+1099,One,"Bach, Richard",nonfiction,Dell
+1100,Karl Marx Biography,,nonfiction,
+1101,To Sir With Love,Braithwaite,fiction,Penguin
